@@ -1,0 +1,13 @@
+apiKey: "AIzaSyCvvHjO4933lfLv8IjulPoegSSOh7t0QBk",
+
+authDomain: "pruebahist-40302.firebaseapp.com",
+
+projectId: "pruebahist-40302",
+
+storageBucket: "pruebahist-40302.appspot.com",
+
+messagingSenderId: "950938415634",
+
+appId: "1:950938415634:web:1289c013673183699fdecb",
+
+measurementId: "G-9EY5SF4Y29"
